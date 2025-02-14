@@ -1,5 +1,5 @@
-<H1>Instructions</H1>
-<H4>Firstly u want to download the python file and follow these steps!</H4>
+# Instructions
+**Firstly u want to download the python file and follow these steps!**
 
 1. Type windows + r then type "cmd" without the "
 2. Press enter and type "pip install psutil SpeechRecognition pyttsx3 google-generativeai"
